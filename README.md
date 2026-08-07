@@ -53,14 +53,37 @@ Next, you will configure teams. The purpose of teams is to pull agents from diff
 <br/>
 
 <p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You will now allow anyone to create tickets. To do this, click Admin Panel > click Settings > click users > then uncheck "require registrations and login to create tickets".
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1912" height="1218" alt="image" src="https://github.com/user-attachments/assets/31fdbae4-da56-4247-b46e-a6de0086a6e2" />
 </p>
-<br />
+<br/>
+
+<p>
+Now you will configure agents (workers). This is important because whenever someone gets hired as a help desk agent, a new agent account has to be created for them. The agents will be the ones who are troubleshooting and resolving tickets. To do this, click Admin Panel > click Agents > Click Add New Agent. You will create Jane who will be in the SysAdmin department, who will have a Supreme Admin role, and who will be a part of the Online Banking team.
+</p>
+<p>
+<img width="1914" height="1092" alt="image" src="https://github.com/user-attachments/assets/c5d1de37-d287-46ae-9a5a-a9c490602cdf" />
+</p>
+<br/>
+
+<p>
+After creating the agents, next you will create end users who may create a ticket. To do this, click Agent Panel > click User > Click Add User.
+</p>
+<p>
+<img width="1910" height="658" alt="image" src="https://github.com/user-attachments/assets/0f980666-7d1b-4942-9090-8d31f910dd80" />
+</p>
+<br/>
+
+<p>
+Now you will configure an SLA. An SLA is an agreement that dictates how much time you have to complete a specific task. To do this, click Admin Panel > click Manage > click SLA > click add new SLA plan. You will configure three SLAs that have a severity of A, B, and C (going from most to least severe). This is how Sev-A looks.
+</p>
+<p>
+<img width="1912" height="1056" alt="image" src="https://github.com/user-attachments/assets/4bec5d59-60b8-4246-81cf-57b7e274c382" />
+</p>
+<br/>
+
+<p>
+
+</p>
