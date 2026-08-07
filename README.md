@@ -85,5 +85,14 @@ Now you will configure an SLA. An SLA is an agreement that dictates how much tim
 <br/>
 
 <p>
+Lastly, you will configure Help Topics. When a user creates a ticket, they choose the category that the ticket relates to. To do this, click Admin Panel > click Manage > click Help Topics.
+</p>
+<p>
+<img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/bdaacf96-1537-407b-a2a2-928d77f1d296" />
+</p>
+<br/>
 
+<h2>Summary</h2>
+<p>
+Created some roles, departments, a team, a few users who are actually using the platform (Jane & David). Created an end user who is working in some department that might make a ticket in the future. Created our SLAs which will be used when creating, working, assigning, and configuring tickets. Created help topics which will help the end user categorize the tickets when they’re creating them for the analysts
 </p>
